@@ -1,0 +1,42 @@
+*{font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+    cursor: pointer;
+
+}
+body{
+        background-image: url("images/kente.jpg")
+}
+
+nav a{
+text-align: right;
+float: right;
+margin: 10px;
+color: white;
+font-size: 18px;
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+}
+
+a:hover{
+color: green
+}
+img{
+    border:double blue;
+    border-style: ridge;
+    border-width:
+}
+
+h1{
+    text-align: center;
+    color:yellow;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 40px;
+    text-decoration: red;
+    border: 12px dotted red
+    }
+    h1.hover{
+        color:white
+    }
+
+    p{
+        font-size: 18px;
+    }
